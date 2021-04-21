@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-H27X0B3CWZ">
+
+	</script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H27X0B3CWZ');
+	</script>
+	<!-- www.henri-goudezeune/ www.henri-goudezeune.be/ henri-goudezeune.be/ henri-goudezeune/ Henri-goudezeune/ Henri-Goudezeune/ Henri Goudezeune/ Goudezeune Henri/ -->
+	<link rel="shortcut icon" type="image/x-icon" href="https://st2.depositphotos.com/1001311/5495/i/600/depositphotos_54959973-stock-photo-golden-letter-h.jpg">
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>HG</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+	<header>
+		<div class="topnav">
+			<a class="active" href="index.html">HG</a>
+			<a href="about.html">Over</a>
+
+			<a href="rekenmachine.html">rekenmachine</a>
+			<a href="contact.html">Contact</a>
+
+
+
+		</div>
+		<div>
+			<h2 class="titel">
+				Henri Goudezeune
+			</h2>
+		</div>
+	</header>
+	<main id="main">
+
+		<h4>
+			Mijn naam is Henri Goudezeune, ik heb deze website geprogrammeerd om een beetje te oefenen. Welkom op mijn website.
+		</h4>
+
+	</main>
+	<footer class="voet">
+		<p><a id="secret" href="secret741.html">&#169; </a>henri-goudezeune.be<p>
+	</footer>
+
+</html>
